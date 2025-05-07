@@ -45,5 +45,5 @@ Model without Branch C (Dense): 0.2725
 We use the public dataset:
 
 **📍 Renewable Energy Consumption in the U.S.**  
-Available on Kaggle: https://www.kaggle.com/datasets/yuanchunhong/renewable-energy-consumption-in-the-us
+Available on Kaggle: (https://www.kaggle.com/datasets/alistairking/renewable-energy-consumption-in-the-u-s)
 
